@@ -30,6 +30,8 @@ This project was bootstrapped with [Create React App]
 
 ### `npm i axios`
 
+### `npm i`
+
 
 
 ## Links used 
